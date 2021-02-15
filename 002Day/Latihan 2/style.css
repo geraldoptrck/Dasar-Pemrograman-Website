@@ -1,0 +1,9 @@
+h1 {
+    font-family: georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: italic;
+}
+p {
+    font: bold 1
+}
