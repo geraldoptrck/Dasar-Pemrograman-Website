@@ -1,0 +1,6 @@
+body {
+    background-color: lightgreen;
+    background-image: url(gambar.png);
+    /*background-repeat: no-repeat*/;
+    /*background-position: center center*/;
+}
