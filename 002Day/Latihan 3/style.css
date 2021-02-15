@@ -1,0 +1,11 @@
+/* belajar mengenai text styling */
+h1 {
+    font-size: 60px;
+    color: aqua;
+
+}
+p {
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 10px;
+}
